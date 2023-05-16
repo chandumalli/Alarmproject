@@ -1,3 +1,3 @@
 # Alarmproject
 
-click link:
+hosted link:https://chandumalli.github.io/Alarmproject/
